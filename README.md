@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Example Voting App
 =========
 
@@ -37,3 +38,6 @@ Note
 ----
 
 The voting application only accepts one vote per client. It does not register votes if a vote has already been submitted from a client.
+=======
+# docker-example-voting-app
+>>>>>>> 5066c6e0d7a22e2f3237f317c1f88e277d27a56c
